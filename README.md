@@ -12,7 +12,8 @@ PHP client for the Tinify API, used for [TinyPNG](https://tinypng.com) and [Tiny
 
 Install the API client with Composer. Add this to your `composer.json`:
 
-```json
+```php
+function test(){}
 {
   "require": {
     "tinify/tinify": "*"
